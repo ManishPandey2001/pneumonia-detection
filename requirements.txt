@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+fastapi>=0.95.0
+uvicorn>=0.21.0
+scikit-learn>=1.2.0
+pillow>=9.4.0
+medmnist>=2.0.1
+tqdm>=4.65.0
+pandas>=1.5.3
+numpy>=1.24.2
+matplotlib>=3.7.0
+seaborn>=0.12.2
